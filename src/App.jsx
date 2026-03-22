@@ -47,9 +47,9 @@ const FOOTER_COLUMNS = [
 ];
 
 const SOCIAL_LINKS = [
-  { platform: 'twitter', href: 'https://twitter.com/company', ariaLabel: 'Follow us on Twitter' },
-  { platform: 'github', href: 'https://github.com/company', ariaLabel: 'View our GitHub' },
-  { platform: 'linkedin', href: 'https://linkedin.com/company/company', ariaLabel: 'Connect on LinkedIn' },
+  { platform: 'twitter', href: 'https://x.com/mohittokas', ariaLabel: 'Follow us on Twitter' },
+  { platform: 'github', href: 'https://github.com/theperfectpunk', ariaLabel: 'View our GitHub' },
+  { platform: 'linkedin', href: 'https://www.linkedin.com/in/mohit-tokas', ariaLabel: 'Connect on LinkedIn' },
 ];
 
 const LEGAL_LINKS = [
